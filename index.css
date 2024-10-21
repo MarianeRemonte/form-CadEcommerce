@@ -1,6 +1,7 @@
 html, body{
     padding: 0;
     height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body{
@@ -28,6 +29,7 @@ body{
     border-radius: 50px;
     box-shadow: 0 0 20px darkmagenta;
 }
+
 
 h3{
     text-align: center;
