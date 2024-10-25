@@ -28,7 +28,7 @@ Foram usados os seguintes elementos:
 
 Veja agora imagens dos elementos citados anteriormente:
 
-![Imagem ilustrativa dos elementos sendo utilizados no código]()
+![Imagem ilustrativa dos elementos sendo utilizados no código](img/dcfh3.PNG)
 
 
 Também foi utilizado:
@@ -39,7 +39,7 @@ Também foi utilizado:
 
 Segue a imagem ilustrativa:
 
-![Imagem ilustrativa dos elementos sendo utilizados no código]()
+![Imagem ilustrativa dos elementos sendo utilizados no código](img/lib.PNG)
 
 Além dos elementos do HTML5, também foram usados as propriedades do CSS3. Segue aqui as utilizadas no projeto:
 
@@ -47,25 +47,25 @@ Além dos elementos do HTML5, também foram usados as propriedades do CSS3. Segu
 
 * Background-color - Altera a cor do fundo do projeto.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/bc.PNG)
 
 * Box-shadow - Adicona sombra ao fundo de um container presente na composição.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/sb.PNG)
 
-* Color - Foi usado par mudar a cor do testo do título da aba de login.
+* Color - Foi usado par mudar a cor do testo do título.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/c.PNG)
 
 ##### Texto
 
 * Text-align - Alinha texto de acordo com a função colocada junto.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/tal.PNG)
 
 * Font-family - Muda a fonte do texto.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/tf.PNG)
 
 
 ##### Outros
@@ -95,16 +95,18 @@ Todos os elementos abaixo pertencem a aba do form:
 * Border-radius - Arredonda a borda da caixa de login do projeto.
 
 ```
-padding: 30px;
+    padding: 30px;
+    padding: 30px;
     padding-top: 0;
-    border-radius: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
 ```
 
 A seguir, ilustra a imagem do resultado final do projeto:
 
-![Resultado final do projeto - Imagem 1]()
-![Resultado final do projeto - Imagem 2]()
-![Resultado final do projeto - Imagem 3]()
+![Resultado final do projeto - Imagem 1](img/infp.PNG)
+![Resultado final do projeto - Imagem 2](img/infe.PNG)
+![Resultado final do projeto - Imagem 3](img/tlfn.PNG)
 
 ### Estilização
 
